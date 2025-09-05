@@ -1,0 +1,6 @@
+@InfoTrackBookingService_HostAddress = http://localhost:5169
+
+GET {{InfoTrackBookingService_HostAddress}}/booking/
+Accept: application/json
+
+###
